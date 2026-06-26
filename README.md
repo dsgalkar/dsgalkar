@@ -35,6 +35,7 @@
 </p>
 
 ---
+'''markdown
 
 # 📊 GitHub Stats
 
@@ -52,7 +53,7 @@
 
 
 
-'''
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -76,6 +77,7 @@
 </p>
 
 ---
+'''markdown
 
 # 🏆 GitHub Trophies
 
@@ -94,7 +96,7 @@
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/dsgalkar/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
-
+'''
 ---
 
 # 🌟 Featured Projects
