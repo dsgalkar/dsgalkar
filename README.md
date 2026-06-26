@@ -30,7 +30,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,django,java,c,cpp,javascript,html,css,firebase,mysql,git,github,linux,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,firebase,mysql,git,github,linux,vscode,figma&perline=8" />
 
 </p>
 
