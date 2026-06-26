@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+'''markdown
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Galkar</h1>
 <h3 align="center">🚀 Flutter Developer | 🤖 AI Enthusiast | 🔐 Cybersecurity Learner | 💻 Open Source Contributor</h3>
 
@@ -77,7 +77,7 @@
 </p>
 
 ---
-'''markdown
+
 
 # 🏆 GitHub Trophies
 
@@ -96,7 +96,7 @@
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/dsgalkar/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
-'''
+
 ---
 
 # 🌟 Featured Projects
@@ -149,7 +149,7 @@
 
 
 
-'''
+
 # 💻 Coding Profiles
 
 <p align="center">
@@ -171,7 +171,7 @@
 </a>
 
 </p>
-'''
+
 
 
 
@@ -194,6 +194,8 @@
 # 📜 Quote
 
 > **"Code. Learn. Build. Repeat." 🚀**
+
+'''
 
 ---
 
