@@ -40,21 +40,30 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dsgalkar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsgalkar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+
+
+
+
+'''
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dsgalkar&theme=tokyonight&hide_border=true"/>
 
 </p>
+'''
+
+
+
 
 ---
 
@@ -62,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dsgalkar&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -72,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dsgalkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
@@ -82,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/dsgalkar/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
@@ -115,26 +124,30 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dnyaneshwar_galkar">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dsgalkar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dgalkar2023@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
+
 
 </p>
 
 ---
 
+
+
+
+
+
+'''
 # 💻 Coding Profiles
 
 <p align="center">
@@ -156,6 +169,13 @@
 </a>
 
 </p>
+'''
+
+
+
+
+
+
 
 ---
 
