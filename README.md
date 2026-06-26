@@ -86,8 +86,9 @@
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=dsgalkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
 </p>
+
+
 
 ---
 
@@ -95,7 +96,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/dsgalkar/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/dsgalkar/dsgalkar/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
