@@ -1,5 +1,6 @@
-## Hi there 👋
-'''markdown
+
+
+
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Galkar</h1>
 <h3 align="center">🚀 Flutter Developer | 🤖 AI Enthusiast | 🔐 Cybersecurity Learner | 💻 Open Source Contributor</h3>
 
@@ -30,12 +31,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,firebase,mysql,git,github,linux,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,javascript,html,css,firebase,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&perline=8" />
 
 </p>
 
 ---
-'''markdown
+
 
 # 📊 GitHub Stats
 
@@ -61,7 +63,7 @@
 <img src="https://streak-stats.demolab.com?user=dsgalkar&theme=tokyonight&hide_border=true"/>
 
 </p>
-'''
+
 
 
 
@@ -195,7 +197,7 @@
 
 > **"Code. Learn. Build. Repeat." 🚀**
 
-'''
+
 
 ---
 
